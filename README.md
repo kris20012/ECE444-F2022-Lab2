@@ -20,6 +20,6 @@ https://github.com/miguelgrinberg/flasky![image](https://user-images.githubuserc
 ### Acitivity #4
 
 <img width="1652" alt="Screen Shot 2022-09-28 at 5 53 50 PM" src="https://user-images.githubusercontent.com/73756462/192898679-63687fbf-f281-41a4-922e-4c3eade61f35.png">
-![Screen Shot 2022-09-28 at 11 32 42 PM](https://user-images.githubusercontent.com/73756462/192932579-6ed449ce-b59e-4f82-9c3d-d799eae398dc.png)
+<img width="1231" alt="Screen Shot 2022-09-28 at 11 32 42 PM" src="https://user-images.githubusercontent.com/73756462/192932800-e07c22b2-3309-453a-a72b-844d0b40aadc.png">
 <img width="1219" alt="Screen Shot 2022-09-28 at 6 06 55 PM" src="https://user-images.githubusercontent.com/73756462/192898808-2569dc74-3f46-49e7-a3fe-1b8e896314f1.png">
 <img width="1437" alt="Screen Shot 2022-09-28 at 6 11 13 PM" src="https://user-images.githubusercontent.com/73756462/192898876-9cd64af7-0431-40da-9e94-f3130e367bfe.png">
